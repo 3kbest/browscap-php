@@ -1,5 +1,5 @@
 {
-    "name": "browscap/browscap-php",
+    "name": "3kbest/browscap-php",
     "description": "Standalone replacement for php's native get_browser() function",
     "license": "MIT",
     "type": "library",
